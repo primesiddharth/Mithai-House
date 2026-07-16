@@ -154,7 +154,7 @@ const Footer = () => {
         <Row>
           <Col className="mx-3">
             <p className="text-center text-color-b94 fs-14 fw-normal">
-              Copyright © {new Date().getFullYear()} powered by morning bakery,
+              Copyright © {new Date().getFullYear()} powered by Creyotech IT Services,
               Inc. All rights reserved
             </p>
           </Col>
